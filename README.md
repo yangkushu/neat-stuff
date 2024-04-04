@@ -17,3 +17,7 @@
 [regextester.com 正则匹配](https://www.regextester.com/)
 
 [maccy mac剪切板管理](https://github.com/p0deje/Maccy)
+
+## 职业规划
+
+[别让自己“墙”了自己(陈皓)](https://coolshell.cn/articles/20276.html#google_vignette)
